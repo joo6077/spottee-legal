@@ -1,5 +1,5 @@
 # spottee-legal
 
-Spottee 앱의 법적 고지 문서. GitHub Pages 로 공개된다.
-
-- 개인정보처리방침: https://joo6077.github.io/spottee-legal/privacy.html
+법적 문서는 2026-10-28 부터 서비스 도메인 `https://spottee.app/legal/` 에서 서버가 직접 내려준다
+(원본은 `spottee` 저장소의 `server/legal/`). 이 저장소의 페이지는 옛 주소로 들어온 사람을 새 주소로
+자동 이동시키기만 한다. 플레이 콘솔 · 앱스토어 커넥트의 주소를 다 바꾼 뒤 이 저장소는 지운다.
